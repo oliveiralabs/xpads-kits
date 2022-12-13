@@ -1,0 +1,602 @@
+[
+    {
+        "name": "Baboon",
+        "path": "online_kit_1",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/1/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/1/kit.xpads"
+    },
+    {
+        "name": "Gecko",
+        "path": "online_kit_2",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/2/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/2/kit.xpads"
+    },
+    {
+        "name": "Lovebird",
+        "path": "online_kit_3",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/3/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/3/kit.xpads"
+    },
+    {
+        "name": "Sparrow",
+        "path": "online_kit_4",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/4/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/4/kit.xpads"
+    },
+    {
+        "name": "Annoying",
+        "path": "online_kit_5",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/5/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/5/kit.xpads"
+    },
+    {
+        "name": "Lion",
+        "path": "online_kit_6",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/6/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/6/kit.xpads"
+    },
+    {
+        "name": "Baby Cry",
+        "path": "online_kit_7",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/7/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/7/kit.xpads"
+    },
+    {
+        "name": "Burp",
+        "path": "online_kit_8",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/8/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/8/kit.xpads"
+    },
+    {
+        "name": "Frog",
+        "path": "online_kit_9",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/9/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/9/kit.xpads"
+    },
+    {
+        "name": "Sword",
+        "path": "online_kit_10",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/10/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/10/kit.xpads"
+    },
+    {
+        "name": "Red-whiskered Bulbul",
+        "path": "online_kit_11",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/11/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/11/kit.xpads"
+    },
+    {
+        "name": "African Grey Parrot",
+        "path": "online_kit_12",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/12/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/12/kit.xpads"
+    },
+    {
+        "name": "Blender",
+        "path": "online_kit_13",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/13/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/13/kit.xpads"
+    },
+    {
+        "name": "Mynas Bird",
+        "path": "online_kit_14",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/14/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/14/kit.xpads"
+    },
+    {
+        "name": "Funny Baby",
+        "path": "online_kit_15",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/15/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/15/kit.xpads"
+    },
+    {
+        "name": "Deer",
+        "path": "online_kit_16",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/16/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/16/kit.xpads"
+    },
+    {
+        "name": "Metro",
+        "path": "online_kit_17",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/17/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/17/kit.xpads"
+    },
+    {
+        "name": "Robin_Sounds_base.apk",
+        "path": "online_kit_18",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/18/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/18/kit.xpads"
+    },
+    {
+        "name": "Rooster",
+        "path": "online_kit_19",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/19/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/19/kit.xpads"
+    },
+    {
+        "name": "Eagle",
+        "path": "online_kit_20",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/20/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/20/kit.xpads"
+    },
+    {
+        "name": "Duck",
+        "path": "online_kit_21",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/21/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/21/kit.xpads"
+    },
+    {
+        "name": "Nightingale Bird",
+        "path": "online_kit_22",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/22/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/22/kit.xpads"
+    },
+    {
+        "name": "Baby Laugh",
+        "path": "online_kit_23",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/23/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/23/kit.xpads"
+    },
+    {
+        "name": "Squeaky Toy",
+        "path": "online_kit_24",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/24/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/24/kit.xpads"
+    },
+    {
+        "name": "Monkey",
+        "path": "online_kit_25",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/25/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/25/kit.xpads"
+    },
+    {
+        "name": "Red Junglefowl Female",
+        "path": "online_kit_26",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/26/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/26/kit.xpads"
+    },
+    {
+        "name": "Canary Bird",
+        "path": "online_kit_27",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/27/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/27/kit.xpads"
+    },
+    {
+        "name": "Goose",
+        "path": "online_kit_28",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/28/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/28/kit.xpads"
+    },
+    {
+        "name": "Barking Dog",
+        "path": "online_kit_29",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/29/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/29/kit.xpads"
+    },
+    {
+        "name": "Orangutan_Sounds_base.apk",
+        "path": "online_kit_30",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/30/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/30/kit.xpads"
+    },
+    {
+        "name": "Firecracker",
+        "path": "online_kit_31",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/31/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/31/kit.xpads"
+    },
+    {
+        "name": "Sheep",
+        "path": "online_kit_32",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/32/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/32/kit.xpads"
+    },
+    {
+        "name": "Tiger",
+        "path": "online_kit_33",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/33/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/33/kit.xpads"
+    },
+    {
+        "name": "Sea",
+        "path": "online_kit_34",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/34/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/34/kit.xpads"
+    },
+    {
+        "name": "Car Alarm",
+        "path": "online_kit_35",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/35/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/35/kit.xpads"
+    },
+    {
+        "name": "Peacock",
+        "path": "online_kit_36",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/36/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/36/kit.xpads"
+    },
+    {
+        "name": "Mongoose",
+        "path": "online_kit_37",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/37/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/37/kit.xpads"
+    },
+    {
+        "name": "Sea_Otter_Sounds_base.apk",
+        "path": "online_kit_38",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/38/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/38/kit.xpads"
+    },
+    {
+        "name": "Horse",
+        "path": "online_kit_39",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/39/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/39/kit.xpads"
+    },
+    {
+        "name": "Fireworks",
+        "path": "online_kit_40",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/40/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/40/kit.xpads"
+    },
+    {
+        "name": "Parakeet",
+        "path": "online_kit_41",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/41/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/41/kit.xpads"
+    },
+    {
+        "name": "Moose",
+        "path": "online_kit_42",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/42/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/42/kit.xpads"
+    },
+    {
+        "name": "Fighter Jet",
+        "path": "online_kit_43",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/43/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/43/kit.xpads"
+    },
+    {
+        "name": "Kitten",
+        "path": "online_kit_44",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/44/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/44/kit.xpads"
+    },
+    {
+        "name": "Thunderstorm",
+        "path": "online_kit_45",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/45/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/45/kit.xpads"
+    },
+    {
+        "name": "Explosion",
+        "path": "online_kit_46",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/46/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/46/kit.xpads"
+    },
+    {
+        "name": "Wild Boar",
+        "path": "online_kit_47",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/47/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/47/kit.xpads"
+    },
+    {
+        "name": "Airplane",
+        "path": "online_kit_48",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/48/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/48/kit.xpads"
+    },
+    {
+        "name": "Crocodile",
+        "path": "online_kit_49",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/49/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/49/kit.xpads"
+    },
+    {
+        "name": "Turkey",
+        "path": "online_kit_50",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/50/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/50/kit.xpads"
+    },
+    {
+        "name": "Alligator",
+        "path": "online_kit_51",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/51/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/51/kit.xpads"
+    },
+    {
+        "name": "High Frequency",
+        "path": "online_kit_52",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/52/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/52/kit.xpads"
+    },
+    {
+        "name": "War",
+        "path": "online_kit_53",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/53/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/53/kit.xpads"
+    },
+    {
+        "name": "Chinchilla",
+        "path": "online_kit_54",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/54/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/54/kit.xpads"
+    },
+    {
+        "name": "Train",
+        "path": "online_kit_55",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/55/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/55/kit.xpads"
+    },
+    {
+        "name": "Weapon",
+        "path": "online_kit_56",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/56/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/56/kit.xpads"
+    },
+    {
+        "name": "Zebra",
+        "path": "online_kit_57",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/57/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/57/kit.xpads"
+    },
+    {
+        "name": "Bigfoot",
+        "path": "online_kit_58",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/58/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/58/kit.xpads"
+    },
+    {
+        "name": "Laughing Kookaburra",
+        "path": "online_kit_59",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/59/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/59/kit.xpads"
+    },
+    {
+        "name": "Leopard_Sounds_base.apk",
+        "path": "online_kit_60",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/60/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/60/kit.xpads"
+    },
+    {
+        "name": "AK-47",
+        "path": "online_kit_61",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/61/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/61/kit.xpads"
+    },
+    {
+        "name": "Snake",
+        "path": "online_kit_62",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/62/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/62/kit.xpads"
+    },
+    {
+        "name": "Cat",
+        "path": "online_kit_63",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/63/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/63/kit.xpads"
+    },
+    {
+        "name": "Chipmunk",
+        "path": "online_kit_64",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/64/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/64/kit.xpads"
+    },
+    {
+        "name": "Wolf",
+        "path": "online_kit_65",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/65/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/65/kit.xpads"
+    },
+    {
+        "name": "Ship Horn",
+        "path": "online_kit_66",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/66/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/66/kit.xpads"
+    },
+    {
+        "name": "Hippopotamus",
+        "path": "online_kit_67",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/67/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/67/kit.xpads"
+    },
+    {
+        "name": "Pig",
+        "path": "online_kit_68",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/68/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/68/kit.xpads"
+    },
+    {
+        "name": "Pheasant",
+        "path": "online_kit_69",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/69/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/69/kit.xpads"
+    },
+    {
+        "name": "Fox",
+        "path": "online_kit_70",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/70/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/70/kit.xpads"
+    },
+    {
+        "name": "Siren",
+        "path": "online_kit_71",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/71/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/71/kit.xpads"
+    },
+    {
+        "name": "Macaw Bird",
+        "path": "online_kit_72",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/72/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/72/kit.xpads"
+    },
+    {
+        "name": "Ambulance Siren",
+        "path": "online_kit_73",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/73/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/73/kit.xpads"
+    },
+    {
+        "name": "Goat",
+        "path": "online_kit_74",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/74/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/74/kit.xpads"
+    },
+    {
+        "name": "Kingfisher",
+        "path": "online_kit_75",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/75/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/75/kit.xpads"
+    },
+    {
+        "name": "Volcano and Lava sounds_1.1_Apkpure.apk",
+        "path": "online_kit_76",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/76/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/76/kit.xpads"
+    },
+    {
+        "name": "Cockatiel",
+        "path": "online_kit_77",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/77/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/77/kit.xpads"
+    },
+    {
+        "name": "Hawk",
+        "path": "online_kit_78",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/78/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/78/kit.xpads"
+    },
+    {
+        "name": "Gorilla",
+        "path": "online_kit_79",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/79/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/79/kit.xpads"
+    },
+    {
+        "name": "Walrus",
+        "path": "online_kit_80",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/80/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/80/kit.xpads"
+    },
+    {
+        "name": "Chicks",
+        "path": "online_kit_81",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/81/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/81/kit.xpads"
+    },
+    {
+        "name": "Bat",
+        "path": "online_kit_82",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/82/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/82/kit.xpads"
+    },
+    {
+        "name": "Campfire",
+        "path": "online_kit_83",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/83/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/83/kit.xpads"
+    },
+    {
+        "name": "Nuclear Alarm",
+        "path": "online_kit_84",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/84/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/84/kit.xpads"
+    },
+    {
+        "name": "Red Junglefowl",
+        "path": "online_kit_85",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/85/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/85/kit.xpads"
+    },
+    {
+        "name": "Mouse and Rat",
+        "path": "online_kit_86",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/86/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/86/kit.xpads"
+    },
+    {
+        "name": "Elephant",
+        "path": "online_kit_87",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/87/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/87/kit.xpads"
+    },
+    {
+        "name": "Planet",
+        "path": "online_kit_88",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/88/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/88/kit.xpads"
+    },
+    {
+        "name": "Squirrel",
+        "path": "online_kit_89",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/89/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/89/kit.xpads"
+    },
+    {
+        "name": "Tractor",
+        "path": "online_kit_90",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/90/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/90/kit.xpads"
+    },
+    {
+        "name": "Cow",
+        "path": "online_kit_91",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/91/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/91/kit.xpads"
+    },
+    {
+        "name": "Dinosaur",
+        "path": "online_kit_92",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/92/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/92/kit.xpads"
+    },
+    {
+        "name": "Parrot",
+        "path": "online_kit_93",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/93/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/93/kit.xpads"
+    },
+    {
+        "name": "Bell",
+        "path": "online_kit_94",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/94/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/94/kit.xpads"
+    },
+    {
+        "name": "Beluga Whale",
+        "path": "online_kit_95",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/95/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/95/kit.xpads"
+    },
+    {
+        "name": "Tornado & Tsunami Sirens",
+        "path": "online_kit_96",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/96/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/96/kit.xpads"
+    },
+    {
+        "name": "Guinea Pig",
+        "path": "online_kit_97",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/97/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/97/kit.xpads"
+    },
+    {
+        "name": "Swan",
+        "path": "online_kit_98",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/98/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/98/kit.xpads"
+    },
+    {
+        "name": "Door Knocking",
+        "path": "online_kit_99",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/99/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/99/kit.xpads"
+    },
+    {
+        "name": "Peregrine Falcon",
+        "path": "online_kit_100",
+        "coverUrl": "https://oliveiralabs.github.io/xpads-kits/100/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/xpads-kits/100/kit.xpads"
+    }
+]
